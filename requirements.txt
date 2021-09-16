@@ -1,0 +1,9 @@
+Flask
+gunicorn
+pandas
+tensorflow
+numpy
+pickle4
+sklearn
+mahotas
+keras
